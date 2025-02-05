@@ -26,7 +26,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yashvithk19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![snake animation](https://github.com/<yashvithk19>/<yashvithk19>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/yashvithk19/yashvithk19/blob/output/github-contribution-grid-snake2.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=yashvithk19&icon=0&color=0)](https://visitcount.itsvg.in)
 
