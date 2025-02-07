@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=yashvithk19&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashvithk19&theme=dark&hide_border=true)<br/>
 
-![Snake Animation](https://github.com/yashvithk19/yashvithk19/blob/output/dist/snake.svg)
+![Snake Animation](https://github.com/yashvithk19/yashvithk19/raw/main/dist/snake.svg)
 
 
 ---
