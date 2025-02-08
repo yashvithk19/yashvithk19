@@ -24,12 +24,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=yashvithk19&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashvithk19&theme=dark&hide_border=true)<br/>
 
-![Snake Animation](https://github.com/yashvithk19/yashvithk19/raw/main/dist/snake.svg)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yashvithk19&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
