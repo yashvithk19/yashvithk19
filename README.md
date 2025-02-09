@@ -6,7 +6,7 @@
   
 <!-- codingGirl.gif -->
 <div align="center">
-<img src="https://github.com/yashvithk19/yashvithk19/raw/main/code.gif" alt="My Image" width="600" />
+<img src="https://github.com/yashvithk19/yashvithk19/raw/main/code.gif" alt="My Image" width="500" />
 </div>
 
 
